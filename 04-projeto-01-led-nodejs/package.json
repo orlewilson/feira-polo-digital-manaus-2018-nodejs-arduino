@@ -1,0 +1,14 @@
+{
+  "name": "04-projeto-01-led-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Orlewilson B. Maia",
+  "license": "ISC",
+  "dependencies": {
+    "johnny-five": "^1.0.0"
+  }
+}
