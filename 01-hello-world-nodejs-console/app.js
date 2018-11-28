@@ -8,4 +8,4 @@
 */
 
 // mostra mensagem no console
-console.log("Hello World. Seja bem vindo ao NodeJS!");
+console.log("Hello World. Seja bem-vindo ao NodeJS!");
