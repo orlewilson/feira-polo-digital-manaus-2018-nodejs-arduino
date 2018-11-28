@@ -4,7 +4,7 @@
   Facilitador:       Prof. Orlewilson Bentes Maia
   Data Criacao:      27/11/2018
   Data Atualizacao:  27/11/2018
-  Descricao:         Ligar/desligar LED com NodeJS
+  Descricao:         Projeto 01 - Ligar/desligar LED com NodeJS
 */
 
 // bibliotecas

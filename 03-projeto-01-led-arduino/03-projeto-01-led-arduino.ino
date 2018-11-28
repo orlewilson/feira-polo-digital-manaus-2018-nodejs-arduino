@@ -4,7 +4,7 @@
   Facilitador:       Prof. Orlewilson Bentes Maia
   Data Criacao:      27/11/2018
   Data Atualizacao:  27/11/2018
-  Descricao:         Ligar/desligar LED com Arduino
+  Descricao:         Projeto 01 - Ligar/desligar LED com Arduino
 */
 
 // Porta digital no qual sera colocado um LED para ser ligado e desligado

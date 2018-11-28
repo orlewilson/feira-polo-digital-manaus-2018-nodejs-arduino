@@ -4,9 +4,8 @@
   Facilitador:       Prof. Orlewilson Bentes Maia
   Data Criacao:      27/11/2018
   Data Atualizacao:  27/11/2018
-  Descricao:         Escolher cor usando LED RGB + Servico
+  Descricao:         Projeto 02 - Escolher cor usando LED RGB + Servico
 */
-// importando bibliotecas
 
 // importando bibliotecas
 // para trabalhar com páginas web
