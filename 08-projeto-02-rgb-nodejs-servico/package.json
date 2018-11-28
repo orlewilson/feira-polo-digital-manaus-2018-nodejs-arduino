@@ -1,0 +1,16 @@
+{
+  "name": "08-projeto-02-rgb-nodejs-servico",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Orlewilson B. Maia",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "ip": "^1.1.5",
+    "johnny-five": "^1.0.0"
+  }
+}
